@@ -14,7 +14,7 @@ public class NewsLetter2Go_Scenario2 extends RESTAssuredBase
 	@BeforeTest
 	public void setValues1() {
 		testCaseName = "Scenario 2";
-		testDescription = "Create a new list";
+		testDescription = "User Operation";
 		nodeArray = new String[]{ "Get all the users", "Get your user detail", "Update your user details", "Verify updated user details" };
 		authors = "George";
 		category = "API";
