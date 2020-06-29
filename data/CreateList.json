@@ -1,0 +1,16 @@
+{
+  "name": "My new List",
+  "uses_econda": false,
+  "uses_googleanalytics": true,
+  "has_opentracking": true,
+  "has_clicktracking": true,
+  "has_conversiontracking": false,
+  "imprint": "http://gtj.org/imprint",
+  "header_from_email": "george@gtjcompany.org",
+  "header_from_name": "George T Jose",
+  "header_reply_email": "lionelmessi@barcelona.org",
+  "header_reply_name": "Lionel Messi",
+  "tracking_url": null,
+  "landingpage": "http://gtj.org/unsubscribe-landingpage",
+  "use_ecg_list": false
+}
